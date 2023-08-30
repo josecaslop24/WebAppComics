@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDzFqahal4h2UpdojklyZxai+y/VZDodJMQ1GJsIO0VEEa4/dgPHMW2NeDtkrHuxHBEIGb9CSI/zc8rZPpiHBg==",
+  "dgSpecHash": "cbf5KwPxk6xEdhbM/FRAzxe1zuSXbIzyNlAWrdrdjffVSIxh8kOJW3wMhovmvzSnWBwrgDBdl+N6gm9yQtv0pw==",
   "success": true,
-  "projectFilePath": "E:\\AZURE\\PAGINA WEB\\WebAppComics\\WebAppComics.csproj",
+  "projectFilePath": "E:\\AZURE\\PAGINA WEB\\WebAppComics\\WebAppComics\\WebAppComics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
